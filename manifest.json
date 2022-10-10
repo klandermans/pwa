@@ -1,6 +1,6 @@
 {
-  "name": "Hello World",
-  "short_name": "Hello",
+  "name": "DairycampusAPP",
+  "short_name": "Dairy",
   "icons": [{
     "src": "images/hello-icon-128.png",
       "sizes": "128x128",
